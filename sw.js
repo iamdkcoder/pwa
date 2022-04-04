@@ -8,7 +8,7 @@ const staticAssets = [
   "./dashboard.html",
   "./login.html",
   "./services.html",
-  "./app.js",
+  "./js/app.js",
   "./style.css",
 ];
 
